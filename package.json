@@ -1,0 +1,23 @@
+{
+  "name": "madi-skills",
+  "version": "1.0.0",
+  "description": "some madi skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mheleon/madi-skills.git"
+  },
+  "author": "@mheleon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mheleon/madi-skills/issues"
+  },
+  "homepage": "https://github.com/mheleon/madi-skills#readme",
+  "dependencies": {
+    "alexa-app": "^4.2.3"
+  },
+  "devDependencies": {}
+}
